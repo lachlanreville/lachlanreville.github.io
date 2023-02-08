@@ -4968,7 +4968,7 @@ img[src="static/forums/locked_read.png"] {
 .main-menu {
   background-color: rgba(7, 11, 22, 0.9);
   width: 100%;
-  height: 28px;
+  height: 32px;
   margin: 5px auto 10px auto;
   font-size: 10pt;
   text-align: left;
@@ -4987,7 +4987,7 @@ img[src="static/forums/locked_read.png"] {
   padding: 1%;
   margin: 0;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .main-menu__link {
